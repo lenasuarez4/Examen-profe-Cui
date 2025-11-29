@@ -20,15 +20,15 @@ h1{
     color: #ffffff;
     line-height: 0.5;
     margin: 20px;
-  }
+}
 
-  .galeria {
+.galeria{
   display: flex;            
   justify-content: center; 
   gap: 40px;                
   flex-wrap: wrap;          
 }
-.titulo {
+.titulo{ 
   margin-top: 10px;
   font-size: 18px;
   font-weight: bold;
