@@ -1,1 +1,5 @@
-alert("Este es mi examen final con el profe Cui");
+
+
+alert("No ovides dar click en las imagenes");
+
+alert(mensajePagina);
