@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to right, #000000, #fdfdfdd6);
+  background: linear-gradient(to right, #626fd7, #fdfdfdd6);
 }
 
 h1{
@@ -17,7 +17,7 @@ h1{
 .texto {
     font-family: 'Arial', sans-serif;
     font-size: 20px;
-    color: #ffffff;
+    color: #1c0e0e;
     line-height: 0.5;
     margin: 20px;
 }
@@ -32,5 +32,5 @@ h1{
   margin-top: 10px;
   font-size: 18px;
   font-weight: bold;
-  color: #bab0b0;
+  color: #0c1418;
 }
