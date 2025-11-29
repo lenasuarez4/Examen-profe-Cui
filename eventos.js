@@ -1,3 +1,1 @@
-document.getElementById("btn").addEventListener("click", function() {
-  alert("Diste clic!");
-});
+alert("Este es mi examen final con el profe Cui");
