@@ -10,7 +10,7 @@ h1{
   }
 
   img {
-  border: 3px solid #333;        /* grosor, estilo y color del borde */
-  border-radius: 10px;           /* esquinas redondeadas (opcional) */
-  box-shadow: 5px 5px 15px rgba(0,0,0,0.5); /* sombra: desplazamiento X, Y, difuminado, color */
-}
+  border: 3px solid #333;       
+  border-radius: 10px;           
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.5);}
+  
