@@ -2,7 +2,7 @@ body {
   background: linear-gradient(to right, #626fd7, #fdfdfdd6);
 }
 
-h1{
+.principal{
     text-align: center;
     color: #f6f7fa;
     font-size: 40px;
@@ -38,7 +38,7 @@ h1{
 a, p.titulo {
   display: inline-block;
   vertical-align: top;
-  margin-right: 25px; /* separación entre cada serie */
+  margin-right: 25px; 
 }
 
 
@@ -47,3 +47,5 @@ a, p.titulo {
   width: 300px;
   height: auto;
 }
+
+
