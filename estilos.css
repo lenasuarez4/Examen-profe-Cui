@@ -14,3 +14,23 @@ h1{
   border-radius: 10px;           
   box-shadow: 5px 5px 15px rgba(0,0,0,0.5);}
   
+.texto {
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    line-height: 0.5;
+    margin: 20px;
+  }
+
+  .galeria {
+  display: flex;            
+  justify-content: center; 
+  gap: 40px;                
+  flex-wrap: wrap;          
+}
+.titulo {
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #bab0b0;
+}
