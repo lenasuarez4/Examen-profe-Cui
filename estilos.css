@@ -1,9 +1,10 @@
 body {
-  background: linear-gradient(to right, #9ad0ff, #c4fae8);
+  background: linear-gradient(to right, #000000, #fdfdfdd6);
 }
 
 h1{
     text-align: center;
-    color: #0a30c9;
+    color: #f6f7fa;
     font-size: 40px;
-    text-shadow: 2px 2px #808080}
+    text-shadow: 2px 2px #000000
+  }
