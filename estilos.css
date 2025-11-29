@@ -8,3 +8,9 @@ h1{
     font-size: 40px;
     text-shadow: 2px 2px #000000
   }
+
+  img {
+  border: 3px solid #333;        /* grosor, estilo y color del borde */
+  border-radius: 10px;           /* esquinas redondeadas (opcional) */
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.5); /* sombra: desplazamiento X, Y, difuminado, color */
+}
